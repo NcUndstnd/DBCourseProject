@@ -1,0 +1,9 @@
+INSERT INTO public.role_person (person_id, role_id) VALUES (12, 0);
+INSERT INTO public.role_person (person_id, role_id) VALUES (4, 1);
+INSERT INTO public.role_person (person_id, role_id) VALUES (8, 1);
+INSERT INTO public.role_person (person_id, role_id) VALUES (9, 1);
+INSERT INTO public.role_person (person_id, role_id) VALUES (16, 1);
+INSERT INTO public.role_person (person_id, role_id) VALUES (17, 0);
+INSERT INTO public.role_person (person_id, role_id) VALUES (18, 3);
+
+

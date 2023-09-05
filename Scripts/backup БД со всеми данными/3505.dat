@@ -1,0 +1,10 @@
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (12, 'Untitled', 'creen341', 'intit@gmail.com', '2023-04-25 00:00:00');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (5, 'Red Hot Chili Peppers', 'hfgd134', 'rhcp@gmail.com', '2020-05-09 00:00:00');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (4, 'Серега Пират', 'talant574', 'fulling@gmail.com', '2023-05-11 18:45:31.052681');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (8, 'Cardi B', 'hfje58hdj', 'cardb@gmail.com', '2023-05-11 19:00:02.652891');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (9, 'JMan', 'djwfk4134', 'gfhfjd@gmail.com', '2023-05-13 12:30:30.005254');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (16, 'Convolk', '1d9910aa9c81f32d632bcdcb5c5c58ab', 'tyurj@gmail.com', '2023-05-17 03:16:35.68345');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (17, 'IVOXYGEN', 'fcb2b796c399efd15c16f73c2612bdb5', 'tdye@gmaail.com', '2023-05-17 04:05:56.740643');
+INSERT INTO public.person (id, username, password, email, registration_date) VALUES (18, 'INTERWORLD', '173edb8ee126e0786ce485ee520b1e00', 'tduiQWEye@gmaail.com', '2023-05-18 12:19:46.167792');
+
+

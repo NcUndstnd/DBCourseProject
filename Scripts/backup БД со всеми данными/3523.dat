@@ -1,0 +1,4 @@
+INSERT INTO public.album (id, name, creation_date, image, description) VALUES (3, 'Teen Dreams', '2023-05-11', 'C:\Users\Ignat\OneDrive\Изображения\1200x1200bf-60.jpg', 'Album Description');
+INSERT INTO public.album (id, name, creation_date, image, description) VALUES (4, 'Teen Dreams', '2023-05-11', 'C:\Users\Ignat\OneDrive\Изображения\1200x1200bf-60.jpg', 'Album Description');
+
+

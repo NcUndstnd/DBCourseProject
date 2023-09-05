@@ -1,0 +1,14 @@
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (43, 3);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (44, 3);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (45, 3);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (46, 3);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (48, 3);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (49, 3);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (43, 4);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (44, 4);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (45, 4);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (46, 4);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (48, 4);
+INSERT INTO public.album_audio (audio_id, album_id) VALUES (49, 4);
+
+

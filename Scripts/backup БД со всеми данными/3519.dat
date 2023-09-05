@@ -1,0 +1,15 @@
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 43);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 44);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 45);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 46);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 48);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 49);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (12, 2);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 8);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (10, 3);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (7, 4);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (12, 58);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (12, 61);
+INSERT INTO public.genre_audio (genre_id, audio_id) VALUES (12, 63);
+
+

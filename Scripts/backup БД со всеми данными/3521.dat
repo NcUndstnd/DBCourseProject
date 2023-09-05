@@ -1,0 +1,6 @@
+INSERT INTO public.json_buffer (id, name, text, image, genre_name, username, upload_date) VALUES (2, 'J-rap', 'Some jazz audio', 'link to image', 'Jazz', 'Untitled', '2023-05-11 13:25:48.465276');
+INSERT INTO public.json_buffer (id, name, text, image, genre_name, username, upload_date) VALUES (3, 'На луне', 'трек сереги пирата', 'link to image', 'Hip-Hop', 'Untitled', '2023-05-11 13:26:23.575878');
+INSERT INTO public.json_buffer (id, name, text, image, genre_name, username, upload_date) VALUES (4, 'Мой байк', 'Вайбовый тречок', 'link to image', 'Rock', 'Untitled', '2023-05-11 17:21:18.074608');
+INSERT INTO public.json_buffer (id, name, text, image, genre_name, username, upload_date) VALUES (8, 'Я это я', 'просто тречок', 'link to the image', 'Hip-Hop', 'Серега Пират', '2023-05-11 18:59:24.700141');
+
+

@@ -1,0 +1,4 @@
+INSERT INTO public.album_author (author_id, album_id) VALUES (17, 3);
+INSERT INTO public.album_author (author_id, album_id) VALUES (17, 4);
+
+

@@ -1,0 +1,6 @@
+INSERT INTO public.role (id, name) VALUES (0, 'Author');
+INSERT INTO public.role (id, name) VALUES (1, 'Default');
+INSERT INTO public.role (id, name) VALUES (2, 'Prime');
+INSERT INTO public.role (id, name) VALUES (3, 'Prime+');
+
+

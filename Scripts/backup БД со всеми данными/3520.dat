@@ -1,0 +1,6 @@
+INSERT INTO public.playlist_audio (playlist_id, audio_id) VALUES (32, 43);
+INSERT INTO public.playlist_audio (playlist_id, audio_id) VALUES (32, 44);
+INSERT INTO public.playlist_audio (playlist_id, audio_id) VALUES (32, 48);
+INSERT INTO public.playlist_audio (playlist_id, audio_id) VALUES (32, 49);
+
+

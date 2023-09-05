@@ -1,0 +1,29 @@
+INSERT INTO public.genre (id, genre_name) VALUES (12, 'Jazz');
+INSERT INTO public.genre (id, genre_name) VALUES (11, 'Rap');
+INSERT INTO public.genre (id, genre_name) VALUES (10, 'Hip-Hop');
+INSERT INTO public.genre (id, genre_name) VALUES (9, 'Pop');
+INSERT INTO public.genre (id, genre_name) VALUES (8, 'Folk');
+INSERT INTO public.genre (id, genre_name) VALUES (7, 'Rock');
+INSERT INTO public.genre (id, genre_name) VALUES (6, 'Dub');
+INSERT INTO public.genre (id, genre_name) VALUES (5, 'Electro');
+INSERT INTO public.genre (id, genre_name) VALUES (4, 'Metal');
+INSERT INTO public.genre (id, genre_name) VALUES (3, 'Soundtrack');
+INSERT INTO public.genre (id, genre_name) VALUES (2, 'Ost');
+INSERT INTO public.genre (id, genre_name) VALUES (1, 'Instrumental');
+INSERT INTO public.genre (id, genre_name) VALUES (0, 'Dance');
+INSERT INTO public.genre (id, genre_name) VALUES (13, 'Indie');
+INSERT INTO public.genre (id, genre_name) VALUES (14, 'Techno');
+INSERT INTO public.genre (id, genre_name) VALUES (15, 'DubStep');
+INSERT INTO public.genre (id, genre_name) VALUES (16, 'Country');
+INSERT INTO public.genre (id, genre_name) VALUES (17, 'Trap');
+INSERT INTO public.genre (id, genre_name) VALUES (18, 'Reggae');
+INSERT INTO public.genre (id, genre_name) VALUES (19, 'Disco');
+INSERT INTO public.genre (id, genre_name) VALUES (20, 'House');
+INSERT INTO public.genre (id, genre_name) VALUES (21, 'R&B');
+INSERT INTO public.genre (id, genre_name) VALUES (22, 'Heavy Metal');
+INSERT INTO public.genre (id, genre_name) VALUES (23, 'Hard Rock');
+INSERT INTO public.genre (id, genre_name) VALUES (24, 'Alertnative Rock');
+INSERT INTO public.genre (id, genre_name) VALUES (25, 'NightCore');
+INSERT INTO public.genre (id, genre_name) VALUES (27, 'Phonk');
+
+

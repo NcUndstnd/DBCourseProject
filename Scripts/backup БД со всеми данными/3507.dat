@@ -1,0 +1,15 @@
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (43, 'Young Kid', 'track by IVOXYGEN', 'link to image', '2023-05-17 23:35:06.687275');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (44, 'room', 'track by IVOXYGEN', 'link to image', '2023-05-17 23:35:06.687275');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (45, 'SAVAGE for a dream', 'track by IVOXYGEN', 'link to image', '2023-05-17 23:35:06.687275');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (46, 'TEEN', 'track by IVOXYGEN', 'link to image', '2023-05-17 23:35:06.687275');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (48, 'requiem for a dream', 'track by IVOXYGEN', 'link to image', '2023-05-17 23:38:00.800306');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (49, '1998', 'track by IVOXYGEN', 'link to image', '2023-05-17 23:38:00.800306');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (2, 'J-rap', 'Some jazz audio', 'link to image', '2023-05-11 13:25:48.465276');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (3, 'На луне', 'трек сереги пирата', 'link to image', '2023-05-11 13:26:23.575878');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (4, 'Мой байк', 'Вайбовый тречок', 'link to image', '2023-05-11 17:21:18.074608');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (8, 'Я это я', 'просто тречок', 'link to the image', '2023-05-11 18:59:24.700141');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (58, 'METAMORPHOSIS', 'track by IVOXYGEN', 'link to image', '2023-05-22 08:12:44.114942');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (61, 'METAMORPHOSIS 3', 'track by IVOXYGEN', 'link to image', '2023-05-22 13:15:23.646913');
+INSERT INTO public.audio (id, name, text, image, upload_date) VALUES (63, 'SAMPLE 2', 'track by IVOXYGEN', 'link to image', '2023-05-22 16:02:30.539876');
+
+
